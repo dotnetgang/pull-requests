@@ -1,0 +1,6 @@
+This is footer component
+
+    ... code goes here...
+
+
+Author: aag10290
